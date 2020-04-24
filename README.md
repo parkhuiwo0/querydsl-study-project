@@ -3,7 +3,7 @@
 
 
 ## Environment
-- Language : Java 1.8  
+- Language : Java 1.8
 - Framework : Spring Boot  
 - Library :  
     - spring-boot-starter-data-jpa  
@@ -12,4 +12,4 @@
     - logback, slf4j  
     - QueryDSL  
     
-- Database : h2 Database
+- Database : H2 Database
