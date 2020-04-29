@@ -138,5 +138,4 @@ public class MemberJpaRepository {
         return ageLoe != null ? member.age.loe(ageLoe) : null;
     }
 
-
 }
